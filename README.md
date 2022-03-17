@@ -1,5 +1,6 @@
-Bash Shell
-==========
+Shell Scripting
+===============
+
 
 ## Default Editor
 ```
