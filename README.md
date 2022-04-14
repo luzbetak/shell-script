@@ -8,7 +8,7 @@ export EDITOR='vim'
 export VISUAL='vim'
 ```
 
-## Find Large Files
+### Find Large Files
 ```
 $ find . -type f -size +1G
 
