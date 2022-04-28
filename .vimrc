@@ -1,7 +1,11 @@
 " vim-plug: Vim plugin manager
-" ============================
+" =========================================
+" git@github.com:luzbetak/shell-script.git
+" if [ -f ~/.gitrc ]; then
+"       . ~/.gitrc
+" fi
+" =========================================
 " Download plug.vim and put it in ~/.vim/autoload
-"
 " curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 " ... or ...
 " wget -c https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim -P ~/.vim/autoload
